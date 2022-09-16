@@ -22,7 +22,7 @@ jobs:
       - uses: actions/checkout@v2
         with:
           repository: Dhina17/android_kernel_xiaomi_onclite
-          ref: lineage-19.1-s-tag
+          ref: lineage-19.1
 
       # Setup the environment
       - name: Setup
